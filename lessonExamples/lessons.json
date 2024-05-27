@@ -1,0 +1,27 @@
+[
+    {
+        "thumbnail": "/thumbnails/python.jpg",
+        "lesson": "",
+        "title": "Python With Static Type",
+        "description": "Master the Power and Clarity of Static Typing in Python.",
+        "duration": "3 months",
+        "slug": ""
+    },
+    {
+        "thumbnail": "/thumbnails/typescript.jpg",
+        "lesson": "",
+        "title": "Typescript programming language",
+        "description": "We wil cover the basic and advance of JavaScript and Typescript, and how its works, and you will learn OOP.",
+        "duration": "3 months",
+        "slug": ""
+    },
+
+{
+    "thumbnail": "/thumbnails/nextjs.jpg",
+    "lesson": "",
+    "title": "Nextjs 14 Advance Course",
+    "description": "Master the Latest Features of Next.js 14 for Next-Level Web Development",
+    "duration": "6 months",
+    "slug": ""
+}
+]
