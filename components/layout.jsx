@@ -9,7 +9,7 @@ const Layout = ({ children }) => {
                 <title>Kodeative</title>
                 <meta name='description' content='Mastering computer science fundamentals from zero to hero, with the best experts around the world.' />
                 <meta name='viewport' content='width=device-width, initial-scale=1' />
-                <link rel='icon' href='' />
+               
             </Head>
             <Navbar />
             <main>{children}</main>

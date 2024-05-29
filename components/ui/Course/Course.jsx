@@ -9,7 +9,7 @@ const Course = () => {
             <div className="custom-screen text-gray-600 dark:text-gray-300">
                 <div className="max-w-xl space-y-3">
                     <h2 className="text-gray-800 dark:text-gray-50 text-3xl font-semibold sm:text-4xl">
-                        Get started with our best selling courses.
+                        Get started with Cloud Applied Generative Ai Engeering.
                     </h2>
                     <p>
                         Kodeative is a leading provider of high-quality, affordable Programming courses.{" "}

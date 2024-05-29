@@ -10,21 +10,21 @@ const Pricing = () => {
                         Join Our Best Programming Course.
                     </h2>
                     <p className='mt-3 max-w-xl'>
-                        Join our course to become a better Software enginner and make a lasting impact on the world.
+                        Join our course to become a better Generative Ai engineer and make a lasting impact on the world.
                     </p>
                 </div>
                 <div className="mt-12 bg-white dark:bg-gray-900/50 rounded-xl shadow-lg md:mt-0">
                     <div className="h-full p-6 space-y-3">
                         <div className="flex flex-wrap items-center justify-between gap-3">
                             <span className="text-2xl text-gray-800 dark:text-gray-50 font-semibold">
-                               Each Course
+                              (GenAi Engineer)
                             </span>
                             <div className="text-2xl text-gray-800 dark:text-gray-50 font-semibold">
                                 $15/per month
                             </div>
                         </div>
                         <p className="max-w-sm text-gray-600 dark:text-gray-300">
-                            Live online classes and recorded videos.
+                           All Features.
                         </p>
                         <a href="https://forms.gle/n4XuMoWPB64gsCaw8" target="_blank" rel="noopener noreferrer">
                         <Button  className="block w-full text-white bg-blue-600 dark:bg-sky-500 hover:bg-blue-500 dark:hover:bg-sky-600 ring-offset-2 ring-blue-600 dark:ring-sky-500 focus:ring shadow ">

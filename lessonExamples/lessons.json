@@ -1,26 +1,42 @@
 [
     {
-        "thumbnail": "/thumbnails/python.jpg",
+        "thumbnail": "/thumbnails/basic.jpg",
         "lesson": "",
-        "title": "Python With Static Type",
-        "description": "Master the Power and Clarity of Static Typing in Python.",
+        "title": "Basics of Programming",
+        "description": "Html & Css",
         "duration": "3 months",
         "slug": ""
     },
     {
-        "thumbnail": "/thumbnails/typescript.jpg",
+        "thumbnail": "/thumbnails/frontend.jpg",
         "lesson": "",
-        "title": "Typescript programming language",
-        "description": "We wil cover the basic and advance of JavaScript and Typescript, and how its works, and you will learn OOP.",
-        "duration": "3 months",
+        "title": "Front-End Development",
+        "description": "JavaScript, TypeScript & Nextjs14",
+        "duration": "6 months",
         "slug": ""
     },
-
+    
+    {
+        "thumbnail": "/thumbnails/backend.jpg",
+        "lesson": "",
+        "title": "Back-End Development ",
+        "description": "Python, FastApi, PostgreSql & Microservices ",
+        "duration": "6 months",
+        "slug": ""
+    },
+    {
+        "thumbnail": "/thumbnails/cloud.jpg",
+        "lesson": "",
+        "title": "Generative Ai",
+        "description": "Docker, Kafka, Kubernetes, OpenAi & CustomGpts ",
+        "duration": "6 months",
+        "slug": ""
+    },
 {
-    "thumbnail": "/thumbnails/nextjs.jpg",
+    "thumbnail": "/thumbnails/special.jpg",
     "lesson": "",
-    "title": "Nextjs 14 Advance Course",
-    "description": "Master the Latest Features of Next.js 14 for Next-Level Web Development",
+    "title": "Specialization (Optional)",
+    "description": "Ai Agents, CrewAi & LangChain ",
     "duration": "6 months",
     "slug": ""
 }

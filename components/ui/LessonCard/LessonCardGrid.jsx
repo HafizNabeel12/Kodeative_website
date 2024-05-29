@@ -9,7 +9,7 @@ export const LessonCardGrid = ({ idx, item: { thumbnail, title, description, dur
                 <img src={thumbnail} className="rounded-lg w-full" alt={title} />
             </Link>
             <div className="pt-2 text-sm flex items-center justify-between">
-                <SubTitle>Course {idx + 1}</SubTitle>
+                <SubTitle>Quarter {idx + 1}</SubTitle>
                 <Duration>{duration}</Duration>
             </div>
             <Title>
